@@ -22,7 +22,7 @@ The system uses a **Retrieval-Augmented Generation (RAG)** approach:
 ├── workflows/
 │   └── industrial_sop_agent.json  # The n8n workflow file
 ├── docs/
-│   └── sample_manual.txt          # Example SOPs for testing
+│   └── IndusPrecision_Technical_Manual_2026.docx          # Example SOPs for testing
 └── README.md
 ```
 

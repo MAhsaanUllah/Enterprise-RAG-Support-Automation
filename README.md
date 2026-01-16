@@ -48,7 +48,7 @@ The system uses a **Retrieval-Augmented Generation (RAG)** approach:
 
 The following screenshot demonstrates the agent correctly identifying the Part #BK-99 from the confidential manual and remembering the context of the conversation (Memory).
 
-![agent_test_result](./assets/agent_test_result.jpg)
+![agent_test_result](./assets/agent_test_result.png)
 
 ---
 

@@ -42,9 +42,7 @@ The system uses a **Retrieval-Augmented Generation (RAG)** approach:
 
 ---
 
-## 🚀 Live Demo & Validation
-
-### Multi-Turn Context & Retrieval Success
+## � UAT Success Screenshot
 
 The following screenshot demonstrates the agent correctly identifying the Part #BK-99 from the confidential manual and remembering the context of the conversation (Memory).
 
